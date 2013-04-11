@@ -1,0 +1,3 @@
+AUTOMAKE_OPTIONS=foreign
+
+FLAGS=-g -Wall
